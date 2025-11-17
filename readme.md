@@ -107,7 +107,7 @@
 
 ```
 backend/
-├── src/main/java/com/example/
+├── src/main/java/com/cdvtc/demo/
 │   ├── config/              # 配置类
 │   │   ├── MyBatisPlusConfig.java
 │   │   └── SecurityConfig.java
@@ -185,8 +185,8 @@ frontend/
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/qgzhao/demo-system.git
-cd demo-system
+git clone https://github.com/qgzhao/springboot3-vue3-demo.git
+cd springboot3-vue3-demo
 ```
 
 ### 2️⃣ 数据库配置
