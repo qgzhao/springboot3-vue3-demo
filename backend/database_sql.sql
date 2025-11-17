@@ -21,5 +21,5 @@ CREATE TABLE `sys_user` (
 
 -- 插入测试数据（密码为：123456）
 INSERT INTO `sys_user` (`username`, `password`, `email`, `phone`, `status`) VALUES
-('admin', '$2a$10$N.zmdr9k7uOCQb376NoUnuTJ8iAt6Z5EHsM8lE9lBOsl7iAt6Z5E', 'admin@example.com', '13800138000', 1),
-('test', '$2a$10$N.zmdr9k7uOCQb376NoUnuTJ8iAt6Z5EHsM8lE9lBOsl7iAt6Z5E', 'test@example.com', '13800138001', 1);
+('admin', '$2a$10$qnWMCjuZCYu17RzJsEa0TuPTDEFIReZIpdIbBn6Ui4n1izZD5E8vi', 'admin@example.com', '13800138000', 1),
+('test', '$2a$10$qnWMCjuZCYu17RzJsEa0TuPTDEFIReZIpdIbBn6Ui4n1izZD5E8vi', 'test@example.com', '13800138001', 1);
